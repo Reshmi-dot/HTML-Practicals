@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<form>
+ <label>
+ <form>  
+    <label>Which city are you from?</label>  
+    <select>  
+        <option>Delhi</option>  
+        <option>Noida</option>  
+        <option>Gurgaon</option>  
+        <option>Other</option>  
+        
+  </select>  
+ </form>  
+<h1>If other please specify the city</h1>
+<input type = "city"><br><br>
+<label> Your feedback on the workshop </label><br><br>
+<textarea id = "idea" cols = "40" rows = "20">
+</textarea>
+</body>
+</html>
