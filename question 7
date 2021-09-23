@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+ <h1> <img src="https://ramanujancollege.ac.in/wp-content/themes/Ramanujan/images/Delhi-University.png" height="50"> Ramanujan College</h1>
+ <p>Departments </p>
+ <ul>
+ <li><a href="https://studiousguy.com/wp-content/uploads/2018/07/Economics.jpg" target="Department">Department of Economics.html</a></li>
+ <li><a href="https://m.media-amazon.com/images/I/51wxvpjPSvL.jpg" target="Department">Department of Applied Psychology.html</a></li>
+ <li><a href="https://thecareerquest.in/wp-content/uploads/2019/11/Commerce-600x329.png" target="Department">Department of Commerce.html</a></li>
+ <li><a href="https://www.analyticssteps.com/backend/media/thumbnail/3028537/9415667_1604650247_STATS%20(1).jpg" target="Department">Department of Statistics.html</a></li>
+ </ul>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+ <head>
+  <title> Ramanujan College </title>
+ </head>
+ <body>
+  <iframe src="choice.html" width="1000" height="500" name="Department"></iframe>
+ </body>
+</html>
+
+
