@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+ <h1> <img src="https://ramanujancollege.ac.in/wp-content/themes/Ramanujan/images/Delhi-University.png" height="50"> Ramanujan College</h1>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<frameset cols="*,*">
+ <iframe src="q6trial.htm" name=Frame1> </iframe>
+ <iframe src="choice.html" name=Frame2> </iframe>
+</frameset>
+</html>
+
+
+
+
+
+
