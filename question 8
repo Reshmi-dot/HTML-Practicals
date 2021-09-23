@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+a{color:red;
+  font-size: 100px;
+  font-family: Times New Roman;}
+h1{color:white;
+   font-size:120px;}
+</style>
+</head>
+<body style = "background-color:black";>
+<h1><b><i>The Tutorials</b></i><br><br>
+<h1><b>The only place you need!</b></h1>
+<a href = "file:///C:/Users/hp/Desktop/practical1.html">About</a><br><br>
+<a href = "file:///C:/Users/hp/Desktop/question%20no%2010.html" "font-size:100px";> To subscribe to our parent website's newsletter</a><br><br>
+</body>
+</html>
