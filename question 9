@@ -1,4 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
+<title>  trial </title>
 </head>
+
+ <frameset rows="150px,*,*,*">
+ <frame noresize src="1.html" name="Frame1">
+ <frame noresize src="2.html"name="Frame2">
+ <frame noresize src="3.html"name="Frame3">
+ <frameset cols="20%,20%">
+ <frame src="4.html"name="Frame4">
+ <frame src="5.html"name="Frame5">
+ </frameset>
+<body>
+
+<h1> <img src="https://ramanujancollege.ac.in/wp-content/themes/Ramanujan/images/Delhi-University.png" height="50"> Ramanujan College</h1>
+
+<a href="https://studiousguy.com/wp-content/uploads/2018/07/Economics.jpg" target="Frame2"><h1 style = "font-size:20px";>Department of Economics</h1></a> <br>
+<a href="https://m.media-amazon.com/images/I/51wxvpjPSvL.jpg" target="Frame2"><h1 style = "font-size:20px";>Department of Applied Psychology</h1></a> <br>
+<a href="https://thecareerquest.in/wp-content/uploads/2019/11/Commerce-600x329.png" target="Frame2"><h1 style = "font-size:20px";>Department of Commerce</h1></a> <br>
+<a href="https://www.analyticssteps.com/backend/media/thumbnail/3028537/9415667_1604650247_STATS%20(1).jpg" target="Frame2"><h1 style = "font-size:20px";>Department of Statistics</h1></a> <br>
+<h1>Your choice</h1>
+</body>
+</html>
