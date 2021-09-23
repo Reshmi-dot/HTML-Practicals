@@ -1,20 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> TheList </title>
 </head>
 <body>
-<h1>Chapters Index</h1>
+<img src = "https://ramanujancollege.ac.in/wp-content/themes/Ramanujan/images/Delhi-University.png">
+<h1 style = "font-size:50px";>Departments in Ramanujan College</h1><br>
 <ol>
-<li>Chapter1</li>
-<li>Chapter2</li>
-<li>Chaper3</li>
+<li>Economics Department</li>
+<li>Applied Psychology Department</li>
+<li>Sociology Department</li>
 </ol>
-<h1>Chapters broken down into</h1>
+<h1 style = "font-size:50px";>Courses offered</h1>
 <ul type = "square">
-<li>Part1</li>
-<li>Part2</li>
-<li>Part3</li>
+<li>Ba economics(hons)</li>
+<li>Ba sociology(hons)</li>
+<li>Ba applied psychology</li>
 </ul>
+<a href = "file:///C:/Users/hp/Desktop/question%206.html"> To know more about the departments</a>
 </body>
 </html>
