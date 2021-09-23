@@ -3,16 +3,18 @@
 <head>
 <style>
 a{color:red;
-  font-size: 100px;
+  font-size: 40px;
   font-family: Times New Roman;}
 h1{color:white;
-   font-size:120px;}
+   font-size:80px;
+   text-align:center;}
 </style>
 </head>
 <body style = "background-color:black";>
-<h1><b><i>The Tutorials</b></i><br><br>
-<h1><b>The only place you need!</b></h1>
+<h1><b>The Tutorials</b><br>
+<h1><b><i>The only place you need!</i></b></h1>
 <a href = "file:///C:/Users/hp/Desktop/practical1.html">About</a><br><br>
-<a href = "file:///C:/Users/hp/Desktop/question%20no%2010.html" "font-size:100px";> To subscribe to our parent website's newsletter</a><br><br>
+<a href = "file:///C:/Users/hp/Desktop/question%20no%2010.html" "font-size:40px";> To subscribe to our parent website's newsletter</a><br><br>
+<a href = "file:///C:/Users/hp/Desktop/question%204.html">Please give your feedback on the 'new times' workshop here</a><br><br>
 </body>
 </html>
