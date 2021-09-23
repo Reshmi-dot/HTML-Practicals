@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> TheList </title>
+</head>
+<body>
+<h1>Chapters Index</h1>
+<ol>
+<li>Chapter1</li>
+<li>Chapter2</li>
+<li>Chaper3</li>
+</ol>
+<h1>Chapters broken down into</h1>
+<ul type = "square">
+<li>Part1</li>
+<li>Part2</li>
+<li>Part3</li>
+</ul>
+</body>
+</html>
