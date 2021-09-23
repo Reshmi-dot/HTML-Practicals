@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<form>
+<h1><b> Subscribe to XYZ News Magazine and Emails</b></h1><br>
+<p>Interested in receiving daily small updates of all latest News? Well, now you can. And best of all, it is free! Just fill out this formand submit it by clicking the 'send it in' button. We will put you on our mailing list and you will receive your first email in 3-5 days.<br>
+<hr size = "2"></p>
+
+<label> please fill the following boxes to help us send the emails and the newsletter:</label><br><br>
+<label>First Name</label>
+<input type = "First Name:"><br>
+<label>last Name</label>
+<input type = "Last Name:"><br>
+<label>Business</label>
+<input type = "Business:"><br>
+<label> We must have correct email address to send you the newsletter:</label><br>
+<label>Email</label>
+<input type = "Email:"><br>
+
+<label>How did you hear about XYZ News Magazines and Emails?</label><br>
+<input type = "radio">
+<label>Here on the Web</label>
+<input type = "radio">
+<label>In a Magazine</label>
+<input type = "radio">
+<label>Television</label>
+<input type = "radio">
+<label>Other</label><br>
+
+
+<label> Would you like to be on our regular mailing list?</label><br>
+<input type = "checkbox">
+<label>Yes, we love junk mails</label><br>
+<input type = "submit">
+<input type = "reset">
+</form>
+</body>
+</html>
