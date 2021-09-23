@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CODE</title>
+<style type="text/css">
+table{
+border : 1px solid black;
+border-collapse: collapse;
+}
+td{
+border : 1px solid black;
+border-collapse: collapse;
+}
+th{
+border : 1px solid black;
+border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+<table>
+<thead>
+<th>Roll No.</th>
+<th>Student Name</th>
+<th>Grades</th>
+</thead>
+<tr>
+<td>1</td>
+<td>A</td>
+<td>A1</td>
+</tr>
+<tr>
+<td>2</td>
+<td>B</td>
+<td>A1</td>
+</tr>
+<tr>
+<td>3</td>
+<td>C</td>
+<td>A2</td>
+</tr>
+</table>
+</body>
+</html>
