@@ -3,8 +3,6 @@
 <head>
 </head>
 <body>
-<form>
- <label>
  <form>  
     <label>Which city are you from?</label>  
     <select>  
