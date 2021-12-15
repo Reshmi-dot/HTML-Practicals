@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<img src = "https://ramanujancollege.ac.in/wp-content/themes/Ramanujan/images/Delhi-University.png">
+<h1 style = "font-size:50px";>Departments in Ramanujan College</h1><br>
+<ol>
+<li>Economics Department</li>
+<li>Applied Psychology Department</li>
+<li>Sociology Department</li>
+</ol>
+<h1 style = "font-size:50px";>Courses offered</h1>
+<ul type = "square">
+<li>Ba economics(hons)</li>
+<li>Ba sociology(hons)</li>
+<li>Ba applied psychology</li>
+</ul>
+<a href = "file:///C:/Users/hp/Desktop/question%206.html"> To know more about the departments</a>
+<a href = "https://ramanujancollege.ac.in/"> To know more about the college </a>
+</body>
+</html>

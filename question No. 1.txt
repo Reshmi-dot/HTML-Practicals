@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    table,
+    th,
+    td {
+      border: 1px solid black;
+      border-collapse: collapse;
+    }
+  
+    th,
+    td {
+      padding: 5px;
+      
+    }
+</style>
+</head>
+
+<table>
+ <tr>
+   <th colspan = "2">A</th>
+   <th>B</th>
+   <th>C</th>
+ </tr>
+ <tr>
+   <th>D</th>
+   <th colspan = "2">E</th>
+   <th>F</th>
+</tr>
+ <tr>
+   <th>G</th>
+   <th>H</th>
+   <th colspan = "2"><img src = "https://ramanujancollege.ac.in/wp-content/themes/Ramanujan/images/Delhi-University.png" width = "20" height = "20"></img></th>
+</tr>
+</table>
+</body>
+	
+</html>
